@@ -1,0 +1,6 @@
+google-cloud-texttospeech==2.14.1
+azure-cognitiveservices-speech==1.28.0
+requests==2.31.0
+python-dotenv==1.0.0
+pydub==0.25.1
+flask==2.3.3
